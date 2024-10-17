@@ -1,5 +1,8 @@
 
 # Markown-memento
+
+[README.md](README.md)
+
 Voici un petit fichier memento pour vous indiquer les principales syntaxes que vous pouvez utiliser en markdown.
 Pour voir les détails de la syntaxe, cliquez que l'icone d'édition de ce fichier.
 

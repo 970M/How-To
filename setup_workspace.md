@@ -1,5 +1,10 @@
 # Setup Workspace
 
+[README.md](README.md)
+
+
+## Passwords directory
+
 [**PWD**](https://drive.google.com/file/d/1KGY1lcKBndP06hiHwM6mFu_4kNgewG5O/view?usp=drive_link)
 
 ## Configuration

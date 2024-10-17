@@ -1,5 +1,6 @@
-Git forkwlow
-============
+# Git forkwlow
+
+[README.md](README.md)
 
 
 ## Initier un projet Git
